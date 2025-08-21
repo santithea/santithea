@@ -1,17 +1,14 @@
 # 👋 ¡Hola! Soy Santiago Rodriguez Thea <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 🎓 **Analista de Sistemas** recibido en Escuela Da Vinci  
-💼 Actualmente trabajando en **Distribuidora Rodríguez** como Administrativo Operativo  
-💻 Apasionado por el desarrollo de software, bases de datos y testing  
+💻 Apasionado por el desarrollo backend y bases de datos  
 🚀 En constante aprendizaje de nuevas tecnologías  
 📍 Buenos Aires, Argentina
 
 ---
 
 ### 🎯 Sobre mí
-- 🔭 Actualmente trabajando en proyectos con **Java** y **React**
-- 🌱 Aprendiendo sobre **bases de datos avanzadas** y **metodologías de testing**
-- 💡 Me interesa especialmente el desarrollo **full-stack** y la **optimización de sistemas**
+- 💻 Me enfoco en el desarrollo **backend**
 - 🎓 Completé certificaciones en **Bases de Datos (UTN)** y **Professional Testing Master (UTN)**
 - 🇬🇧 **First Certificate in English** - University of Cambridge
 
@@ -44,7 +41,7 @@
 #### **Bases de Datos & Backend**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/> 
-  <img src="https://img.icons8.com/color/48/000000/sql.png" width="50" height="50" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" title="Firebase"/>
 </p>
 
 #### **Herramientas & Otros**
@@ -58,7 +55,6 @@
 ### 🎓 Certificaciones Recientes
 - 🎖️ **Diplomatura en Bases de Datos** - UTN Centro de e-Learning (2024)
 - 🧪 **Professional Testing Master** - UTN Centro de e-Learning (2024)
-- 🇬🇧 **First Certificate in English** - University of Cambridge
 
 ---
 
@@ -67,22 +63,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santithea&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santithea&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
----
-
-### 🎯 Objetivos 2025
-- [ ] Profundizar en **Spring Boot** y **Node.js**
-- [ ] Desarrollar un proyecto full-stack completo
-- [ ] Contribuir a proyectos open source
-- [ ] Obtener certificación en **AWS** o **Azure**
-
----
-
-### 💼 Experiencia Profesional
-**Administrativo Operativo** en Distribuidora Rodríguez *(Dic 2019 - Actualidad)*
-- Gestión de sistemas administrativos y operativos
-- Manejo de bases de datos para control de stock y facturación
-- Desarrollo de procesos automatizados para optimizar tareas
 
 ---
 
