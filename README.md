@@ -17,7 +17,7 @@
 ### 📫 Contacto & Redes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago%20Rodriguez%20Thea-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/santiago-rodriguez-thea-121197278/)  
 [![Email](https://img.shields.io/badge/Gmail-santi.rthea@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:santi.rthea@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+54%2011%206184%201203-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/5411618412703)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+54%2011%206184%201203-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/541161841203)
 
 ---
 
@@ -69,7 +69,7 @@
 ### 🤝 ¡Conectemos!
 Siempre abierto a colaborar en proyectos interesantes, intercambiar ideas sobre tecnología o simplemente charlar sobre desarrollo de software. 
 
-💬 *"La mejor manera de predecir el futuro es creándolo."* - Alan Kay
+💬 *"El mejor código es el que se entiende a las 3 AM."* 
 
 ---
 
