@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 
 ### 📫 Contacto & Redes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago%20Rodriguez%20Thea-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/santiago-rodriguez-thea-121197278/)  
-[![Email](https://img.shields.io/badge/Email-santi.rthea%40gmail.com-red?logo=gmail&style=flat)](mailto:santi.rthea@gmail.com)  
-![Profile Views](https://komarev.com/ghpvc/?username=santithea&color=green)  
+[![Email](https://img.shields.io/badge/Email-Contactar-red?logo=gmail&style=flat)](mailto:santi.rthea@gmail.com) → santi.rthea@gmail.com  
 
 ---
 
@@ -51,4 +50,3 @@ Here are some ideas to get you started:
 ---
 
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
-
